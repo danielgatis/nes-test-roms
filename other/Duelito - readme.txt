@@ -1,12 +1,12 @@
 Duelito
-©1999 Hass·n Hern·ndez BenÌtez (alias Bokudono o Bokuten).
+¬©1999 Hass√°n Hern√°ndez Ben√≠tez (alias Bokudono o Bokuten).
 
-Jugar es simple. MuÈvete a izquierda o derecha y salta con A.
+Jugar es simple. Mu√©vete a izquierda o derecha y salta con A.
 Presiona Start para volver a empezar.
 
 
-Nota: El suelo aparece desplazado en NESticle. Como Èste es el
-emulador m·s popular, el juego est· adaptado para funcionar bien,
+Nota: El suelo aparece desplazado en NESticle. Como √©ste es el
+emulador m√°s popular, el juego est√° adaptado para funcionar bien,
 pero en otros emuladores o versiones anteriores de NESticle
 probablemente se vea mal.
 
@@ -15,7 +15,7 @@ Quiero agradecer a:
 
 YOSHi		por su documento (obvio)
 
-Tony Young	Gracias a su p·gina y demo por fin empecÈ a entender el
+Tony Young	Gracias a su p√°gina y demo por fin empec√© a entender el
 		documento de YOSHi
 		(http://members.aol.com/TYoung79/nesprog.html)
 
